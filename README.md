@@ -2,6 +2,8 @@
 
 O **Delivery App** é uma aplicação web completa de delivery, desenvolvida para gerenciamento de pedidos online, cálculo de entrega e operação de vendas com pagamento integrado.
 
+[![🎥 Assista à demonstração](https://img.youtube.com/vi/FgSqcIkIA-8/maxresdefault.jpg)](https://www.youtube.com/watch?v=FgSqcIkIA-8)
+
 O sistema combina um site público para clientes com um painel administrativo robusto para gestão de produtos, pedidos e operação logística.
 
 ---
